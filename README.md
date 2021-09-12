@@ -8,5 +8,3 @@ I am comfortable with...
 * SASS / CSS
 * pug / HTML
 * Node.js and Express.js
-
-I am currently working on a web-based health record system for chiropractors.
