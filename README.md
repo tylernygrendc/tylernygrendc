@@ -4,7 +4,10 @@ I'm Tyler. I'm a chiropractic student planning to join and continue my family's 
 Oh, and I do magic tricks.✨
 
 I am comfortable with...
-* JavaScript
-* SASS / CSS
-* pug / HTML
-* Node.js and Express.js
+* [Vanilla.js](http://vanilla-js.com/)
+* [SASS](https://sass-lang.com/) / CSS
+* [pug](https://pugjs.org/api/getting-started.html) / HTML
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
+
+I am also interested in Arduino based projects.
