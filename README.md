@@ -10,4 +10,4 @@ I am comfortable with...
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
 
-I am also interested in Arduino based projects.
+...and I am about to start using [TypeScript](https://www.typescriptlang.org/).
