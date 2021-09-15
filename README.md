@@ -3,5 +3,7 @@ I'm Tyler. I'm a chiropractic student planning to join and continue my family's 
 
 Oh, and I do magic tricks.✨
 
-I am comfortable with [Vanilla.js](http://vanilla-js.com/) and prefer serverside with [Node.js](https://nodejs.org/en/). I use [Express.js](https://expressjs.com/) for routing, [SASS](https://sass-lang.com/) for styles, and [pug](https://pugjs.org/api/getting-started.html) for html.
+* [Vanilla.js](http://vanilla-js.com/) 
+* CSS
+* [pug](https://pugjs.org/api/getting-started.html) / html.
 
