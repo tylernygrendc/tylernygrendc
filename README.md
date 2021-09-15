@@ -5,5 +5,5 @@ Oh, and I do magic tricks.✨
 
 * JavaScript
 * CSS
-* [pug](https://pugjs.org/api/getting-started.html) & HTML.
+* [pug](https://pugjs.org/api/getting-started.html) & HTML
 
