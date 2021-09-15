@@ -3,7 +3,7 @@ I'm Tyler. I'm a chiropractic student planning to join and continue my family's 
 
 Oh, and I do magic tricks.✨
 
-* [Vanilla.js](http://vanilla-js.com/) 
+* JavaScript
 * CSS
-* [pug](https://pugjs.org/api/getting-started.html) / html.
+* [pug](https://pugjs.org/api/getting-started.html) & HTML.
 
