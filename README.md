@@ -1,2 +1,2 @@
 ## Hi there!
-I am a Doctor of Chiropractic interested in web development.
+I am a chiropractor interested in developing for the web.
