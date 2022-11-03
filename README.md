@@ -10,18 +10,18 @@ Building [an electronic health record system for chiropractors](https://github.c
 
 # Previous
 
-|Project|Summay|Technology|Experience|
-|---|---|---|---|
-|[Wedding Website](https://github.com/tylernygrendc/wedding)|Static multipage site|html, css, js, webpack, firestore|First use of webpack and firestore|
-|Business Website|Static multipage site|html, css, js|First project for client|
-|[Personal Website](https://github.com/tylernygrendc/bio)|Dynamic single page site|pug,scss,js|First use of scss|
-|[Affirmation Website](https://github.com/tylernygrendc/hibarbora)|Dynamic single page site|pug,css,js|First use of pug and express.js routing|
-|[Bingo Game](https://github.com/tylernygrendc/assemblybingo)|Static single page site|html,css,js|First use of web technologies|
+|Project|Technology|Experience|
+|---|---|---|
+|[Wedding Website](https://github.com/tylernygrendc/wedding)|html, css, js, webpack, firestore|First use of webpack and firestore|
+|Business Website|html, css, js|First project for client|
+|[Personal Website](https://github.com/tylernygrendc/bio)|pug,scss,js|First use of scss|
+|[Affirmation Website](https://github.com/tylernygrendc/hibarbora)|pug,css,js|First use of pug and express.js routing|
+|[Bingo Game](https://github.com/tylernygrendc/assemblybingo)|html,css,js|First use of web technologies|
 
 # Education
 
-|Degree|University|City|Dates|Emphasis|
-|---|---|---|---|---|
-|Doctor of Chiropractic|Life University|Marietta, GA|2018 - 2022|Anatomy, physiology, pathology, and radiology. Clinical experience in diagnosis, decision-making, and treatment.|
-|Bachelor of Science in Biology|Life University|Marietta, GA|2017 - 2019|Biochemistry, embryology, histology, genetics, taxonomy, and experiential design.|
+|Degree|University|City|Dates|
+|---|---|---|---|
+|[Doctor of Chiropractic](https://www.life.edu/academic-pages/chiropractic-program/chiropractic-curriculum/)|[Life University](https://goo.gl/maps/nvUv8ZGn8GWKfDTB9)|Marietta, GA|2018 - 2022|
+|[Bachelor of Science in Biology](https://catalog.life.edu/preview_program.php?catoid=26&poid=776)|Life University|Marietta, GA|2017 - 2019|
 
