@@ -2,7 +2,7 @@
 
 # Bio
 
-Hobbyist using [vanilla.js](http://vanilla-js.com/) bundled with [webpack](https://webpack.js.org/). Prefers server-side rendering with [pug](https://pugjs.org/api/getting-started.html). Currently using [Firestore](https://firebase.google.com/products/firestore) for NoSQL datastorage.
+Hobbyist using [vanilla javascript](http://vanilla-js.com/) bundled with [webpack](https://webpack.js.org/). Prefers server-side rendering with [pug](https://pugjs.org/api/getting-started.html). Currently using [Firestore](https://firebase.google.com/products/firestore) for NoSQL datastorage.
 
 # Latest
 
