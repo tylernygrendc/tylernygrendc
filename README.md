@@ -8,7 +8,7 @@ Hobbyist using [vanilla javascript](http://vanilla-js.com/) bundled with [webpac
 
 Building [an electronic health record system for chiropractors](https://github.com/tylernygrendc/praktiki).
 
-# Previous
+# Experience
 
 |Project|Technology|Experience|
 |---|---|---|
