@@ -1,4 +1,3 @@
-> Updated November 3, 2022 by [tylernygren@gmail.com](mailto:tylernygren@gmail.com)
 
 # Bio
 
