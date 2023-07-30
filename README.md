@@ -16,20 +16,3 @@ Building [an electronic health record system for chiropractors](https://github.c
 |[Personal Website](https://github.com/tylernygrendc/bio)|pug,scss,js|First use of scss||2021|
 |[Affirmation Website](https://github.com/tylernygrendc/hibarbora)|pug,css,js|First use of pug and express.js routing|[ARCHIVED](https://hibarbora.web.app/)|2020|
 |[Bingo Game](https://github.com/tylernygrendc/assemblybingo)|html,css,js|First use of web technologies|[ARCHIVED](https://assemblybingo-6f5bd.web.app/)|2020|
-
-# Education
-
-|Degree|University|City|Dates|
-|:---|:---:|:---:|:---:|
-|[Doctor of Chiropractic](https://www.life.edu/academic-pages/chiropractic-program/chiropractic-curriculum/)|[Life University](https://goo.gl/maps/nvUv8ZGn8GWKfDTB9)|Marietta, GA|2018 - 2022|
-|[Bachelor of Science in Biology](https://catalog.life.edu/preview_program.php?catoid=26&poid=776)|[Life University](https://goo.gl/maps/nvUv8ZGn8GWKfDTB9)|Marietta, GA|2017 - 2019|
-
-# Work Experience
-
-|Employer|Position|Dates|
-|:---|:---|:---:|
-|The Joint Chiropractic|Chiropractor|2023-Present|
-|Nygren Chiropractic and Acpuncture|Chiropractor|2022-2023|
-|Life University Procurement Office|Mail Services Concierge|2018-2022|
-|Starbuck Coffee Company|Barista|2017-2018|
-
