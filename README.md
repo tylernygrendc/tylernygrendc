@@ -5,7 +5,7 @@ Diversified chiropractor promoting evidence-based treatment. Experience in probl
 
 # Latest
 
-Building [an electronic health record system for chiropractors](https://github.com/tylernygrendc/praktiki), and getting distracted with [Chrome extensions that make life easier](https://github.com/tylernygrendc/superbill-extension).
+Building [an electronic health record system for chiropractors](https://github.com/tylernygrendc/praktiki), and getting distracted with [extensions that make life easier](https://github.com/tylernygrendc/superbill-extension).
 
 # Projects
 
