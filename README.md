@@ -11,7 +11,7 @@ Building [an electronic health record system for chiropractors](https://github.c
 
 |Project|Technology|Experience|Status|Date|
 |:---|:---|:---|:---:|:---:|
-|[The AXIS Extension]|html, css, js|First Chrome extension|[LIVE](https://chromewebstore.google.com/detail/the-axis-extension/gmhmfihiblelkdckpclocgpaogamnbck)|2024|
+|[The AXIS Extension](https://github.com/tylernygrendc/the-axis-extension)|html, css, js|First Chrome extension|[LIVE](https://chromewebstore.google.com/detail/the-axis-extension/gmhmfihiblelkdckpclocgpaogamnbck)|2024|
 |[Wedding Website](https://github.com/tylernygrendc/wedding)|html, css, js, webpack, firestore|First use of webpack and firestore|[ARCHIVED](https://nygrenkocsiswedding07162023.firebaseapp.com/)|2023|
 |Business Website|html, css, js|First project for client||2022|
 |[Personal Website](https://github.com/tylernygrendc/bio)|pug,scss,js|First use of scss||2021|
