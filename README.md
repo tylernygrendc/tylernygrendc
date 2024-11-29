@@ -1,7 +1,7 @@
 
 # Bio
 
-I am a diversified chiropractor promoting evidence-based treatment and using code to improve medical documentation at a national scale. I believe systems that support physicians are they key to reducing medical errors and malpractice. Springboarding off of a [background in robotics](https://van-wert-robotics-club.webnode.page/teams/), I'm using core web technologies to build and augment web-based health record and practice management systems.
+I am a diversified chiropractor promoting evidence-based treatment and using code to improve medical documentation at a national scale. I believe systems that support physicians are they key to reducing medical errors and malpractice, and for improving treatment outcomes. Springboarding off of a [background in robotics](https://van-wert-robotics-club.webnode.page/teams/), I'm using core web technologies to build and augment web-based health record and practice management systems.
 
 # Public Projects
 
