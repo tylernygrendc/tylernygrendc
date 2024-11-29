@@ -5,7 +5,7 @@ I am a diversified chiropractor promoting evidence-based treatment and using cod
 
 # Public Projects
 
-|Project|Technology|Status|Date|
+|Repository|Technology|Status|Date|
 |:---|:---|:---:|:---:|
 |[Revised Workspace](https://github.com/tylernygrendc/revised-workspace)|js,scss,pug,rollup,node||2024|
 |[The AXIS Extension](https://github.com/tylernygrendc/the-axis-extension)|js,css|[LIVE](https://chromewebstore.google.com/detail/the-axis-extension/gmhmfihiblelkdckpclocgpaogamnbck)|2024|
