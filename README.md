@@ -1,7 +1,7 @@
 
 # Bio
 
-I'm a chiropractor using code to improve medical documentation at a national scale. I believe systems that support physicians are the key to eliminating medical errors and malpractice, and for improving treatment outcomes. Building on an early [background in robotics](https://van-wert-robotics-club.webnode.page/teams/), I'm using core web technologies to create and extend health record and practice management systems.
+I'm a chiropractor using code to improve medical documentation at a national scale. I believe systems that support physicians are the key to improving outcomes and eliminating medical errors. Building on an early [background in robotics](https://van-wert-robotics-club.webnode.page/teams/), I'm using core web technologies to create and extend health record and practice management systems.
 
 # Public Projects
 
