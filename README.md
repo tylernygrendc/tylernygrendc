@@ -7,7 +7,7 @@ I'm a chiropractor using code to improve medical documentation at a national sca
 
 |Repository|Technology|Status|Date|
 |:---|:---|:---:|:---:|
-|[Revised Workspace](https://github.com/tylernygrendc/revised-workspace)|js, scss, pug, rollup, node||2024|
+|[Revised Workspace](https://github.com/tylernygrendc/revised-workspace)|js, scss, pug, rollup, node||2025|
 |[The AXIS Extension](https://github.com/tylernygrendc/the-axis-extension)|js, css|[LIVE](https://chromewebstore.google.com/detail/the-axis-extension/gmhmfihiblelkdckpclocgpaogamnbck)|2024|
 |[Wedding Website](https://github.com/tylernygrendc/wedding)|html, css, js, webpack, firestore|[ARCHIVED](https://nygrenkocsiswedding07162023.firebaseapp.com/)|2023|
 |[Personal Website](https://github.com/tylernygrendc/bio)|pug, scss, js||2021|
